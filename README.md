@@ -6,3 +6,5 @@ simple ass boring ass mod that just removes the new game button on the title scr
 uuuuhhh add UnityEngine, UnityEngine.CoreModule, and MelonLoader if u wanna use the sln or smth idk
 
 mostly made by chatgpt :thumbsup:
+
+![downloads](https://img.shields.io/github/downloads/kozia132/NoMoreNewFile/total)
